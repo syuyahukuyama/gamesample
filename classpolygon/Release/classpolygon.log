@@ -1,0 +1,23 @@
+﻿  Bg.cpp
+  bullet.cpp
+  enemy.cpp
+  enemyS.cpp
+  explosion.cpp
+  fade.cpp
+  game.cpp
+  input.cpp
+  main.cpp
+  manager.cpp
+  player.cpp
+  renderer.cpp
+  result.cpp
+  scene.cpp
+  scene2D.cpp
+  Score.cpp
+  sound.cpp
+  title.cpp
+  コード生成しています。
+  All 198 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  classpolygon.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\classpolygon\Release\classpolygon.exe
+  classpolygon.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\classpolygon\Release\classpolygon.pdb (Full PDB)
